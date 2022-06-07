@@ -16,7 +16,7 @@ def menu():
         else:
             print("Digite um opção valida")
             cls()
-
+            break
 
 if __name__ == '__main__':
     menu()
